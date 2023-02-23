@@ -8,7 +8,7 @@ Diet & Exercise Planning
 -	This website would be a generic diet and exercise information page, with categories for target weight, fitness goals and nutritional objectives. 
 -	The information provided would be a combination of healthy recipes and snack suggestions, as well as exercise plans for individual work outs.
 -	Interactivity & UX would be minimal as the recipes and plans would be tailored to a wide range of people starting their fitness journey.
--
+
 Wellbeing Site
 
 -	This website’s purpose would be to support and improve the wellbeing of the user, drawing from different aspects of life to highlight areas of focus and simultaneously reduce stress and anxiety.
@@ -17,10 +17,6 @@ Wellbeing Site
 
 Guide to Improved Health
 
--	This website would open up the topic of health and explore how everyone on their health journey can continue to improve and reach their goals. Sub-categories of the website would include:
-o	Physical health & exercise
-o	Mental health & wellbeing
-o	Diet & eating habits
-o	Social Factors
+-	This website would open up the topic of health and explore how everyone on their health journey can continue to improve and reach their goals. Sub-categories of the website would include:physical health & exercise; mental health & wellbeing; diet & eating habits and social Factors.
 -	Another section of the website would be a blog-formatted promotional piece, where advice from medical care to fitness watches can be recommended depending on what’s currently on the market. This could also be used to generate revenue as we could allow businesses to pay a fee for their product to be features on this site, which affiliate links and discount codes also available.
 
