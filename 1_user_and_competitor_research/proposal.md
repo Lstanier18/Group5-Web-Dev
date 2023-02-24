@@ -73,6 +73,10 @@ Objectives / Goals
 
 _A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
 
+The target audience of this project is inviduals who are seeking to live a healthier lifestyle, however they are new to this realm and therefore, they have limited knowledge and little idea of where to start.
+
+In terms of our audience's demographic, it varies from teenagers still at school through to parents and everyday working inviduals. We beleive that living a healthy lifestyle is not subject to age or one's background as we believe it is something that everybody should strive for. However, it is important that our target auidence has a genuine interest in persuing a healthier way of living. 
+
 ## Branding/perception
 
 _Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), personality (that the site reflects or embodies), key visual attributes (colour, graphic style, etc.), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
