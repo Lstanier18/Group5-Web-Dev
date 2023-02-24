@@ -16,21 +16,33 @@ The purpose of the website is to promote methods to live a healthier lifestyle f
 
 Physical Fitness
 •	How one can improve their physical fitness through exercise and physical activities
+
 •	Workout plans
+
 •	How to avoid overtraining and understanding the right frequency 
+
 •	Importance of recovery 
+
 Diet
 •	Why diet is important 
+
 •	Examples of easy-to-follow diets
+
 •	Foods to avoid
+
 •	Importance of moderation
+
 •	Aiming at what is sustainable 
+
 •	Super foods
 
 Mental Health
 •	How to better manage one’s mental health 
+
 •	Misconceptions
+
 •	Useful exercises such as journalling or mindfulness practices 
+
 •	Therapy
 
 ## Business objectives/goals
