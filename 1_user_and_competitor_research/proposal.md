@@ -9,8 +9,11 @@ The _italic text_ below is a guide to each section. Remove this text and add you
 _What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
 
 The intention of this project is to create a fully functioning website to display content in a way which is easy to digest for the user.
+
 The structure of the content will be “how to” guides to provide a foundation level of knowledge for beginners. 
+
 The purpose of the website is to promote methods to live a healthier lifestyle from all aspects which includes, physical fitness, diet, mental health.
+
 Physical Fitness
 •	How one can improve their physical fitness through exercise and physical activities
 •	Workout plans
@@ -29,8 +32,6 @@ Mental Health
 •	Misconceptions
 •	Useful exercises such as journalling or mindfulness practices 
 •	Therapy
-![image](https://user-images.githubusercontent.com/125029956/221148468-59b84a1c-17a5-48bd-9eb9-b16b20cacabd.png)
-
 
 ## Business objectives/goals
 
@@ -43,7 +44,6 @@ User Questions
 Objectives / Goals 
 •	Full functioning website
 •	Content that is easy to digest for the user 
-![image](https://user-images.githubusercontent.com/125029956/221148553-98051970-ce93-4636-938a-0574bfbd3642.png)
 
 
 ## Primary audience(s)
@@ -56,7 +56,6 @@ _Corporate design considerations (logo, branding, etc.), abstract qualities (fri
 
 The language of the website is intended to be friendly, approachable, easy to read and ensuring that the reader is not overwhelmed as we intend for the content to be easy to digest and not complicated. In addition, the tone used will be very informal and instructional as this is a how to guide and targeted at beginners 
 The visual attributes of our site are intended to be bright and colourful to capture the user’s full attention. We intend to use images and graphics to help portray a similar tone to what we want to convey with the language. 
-![image](https://user-images.githubusercontent.com/125029956/221148630-2f6f8e00-3ee0-405c-b7ad-7366735ecece.png)
 
 
 ## Communication strategy
