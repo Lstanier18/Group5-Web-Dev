@@ -89,4 +89,10 @@ The visual attributes of our site are intended to be bright and colourful to cap
 
 _What are the primary messages you want to convey to the target audience? What makes your guide unique? What can you do that other guides can&#39;t? Briefly explain how the new site will convey the primary messages_.
 
+The primary messages of our website are; how one can better than physical and mental health and how none can improve their lifestyle choices through diet. 
+
+Our guide is unique as it isn't aimed at one demographic, it is aimed at all inviduals with the sole intention of improving their life but without any prior experience, compared to other guides which are targeted at inviduals who are already experienced with going to the gym, eating healthy and improving their mental health. 
+
+The site will be structured as a how to guide, with simple and easy to follow steps. In addition, our guide will be very informal but still informative in order to maintain the user's attention. Furthermore, our website will be very visual and engaging. 
+
 
