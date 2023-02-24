@@ -51,13 +51,21 @@ Mental Health
 ## Business objectives/goals
 
 User Questions
+
 •	What are the important areas to focus on to improve physical health and wellbeing?
+
 •	Common pitfalls when trying to live a healthy lifestyle?
-•	Examples of exercises to improve one’s physical health.
+
+•	Examples of exercises to improve one’s physical health
+
 •	The importance of a healthy diet and what makes a healthy diet?
+
 •	How one can better manage their mental health?
+
 Objectives / Goals 
+
 •	Full functioning website
+
 •	Content that is easy to digest for the user 
 
 
@@ -76,3 +84,5 @@ The visual attributes of our site are intended to be bright and colourful to cap
 ## Communication strategy
 
 _What are the primary messages you want to convey to the target audience? What makes your guide unique? What can you do that other guides can&#39;t? Briefly explain how the new site will convey the primary messages_.
+
+
