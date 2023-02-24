@@ -15,6 +15,7 @@ The structure of the content will be “how to” guides to provide a foundation
 The purpose of the website is to promote methods to live a healthier lifestyle from all aspects which includes, physical fitness, diet, mental health.
 
 Physical Fitness
+
 •	How one can improve their physical fitness through exercise and physical activities
 
 •	Workout plans
@@ -24,6 +25,7 @@ Physical Fitness
 •	Importance of recovery 
 
 Diet
+
 •	Why diet is important 
 
 •	Examples of easy-to-follow diets
@@ -37,6 +39,7 @@ Diet
 •	Super foods
 
 Mental Health
+
 •	How to better manage one’s mental health 
 
 •	Misconceptions
