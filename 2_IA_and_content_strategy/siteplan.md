@@ -11,6 +11,8 @@ Add your initial site plan for SP2, and any further revisions for SP5. Include c
 ### Commentary
 You have established this architecture following the card sort and tree testing. Explain the architecture that we now see.
 
+After completing a card sorting activity to brainstorn with the team, and utilising the layout elements and style provided by the practise of tree testing, i have been able to establish the relationships between the categories we will have on our website. 
+
 ---
 
 >We would expect at least one further iteration, but don't adjust them for the sake of it. Your final version must reflect the architecture of the site (The Guide) that you submit at SP5.
