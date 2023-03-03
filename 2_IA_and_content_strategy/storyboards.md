@@ -24,7 +24,7 @@ Provide a description and explain how this storyboard relates to the persona and
 
 ## Storyboard Three
 
-<img src="sp1-media/storyboard.png" alt="Storyboard Three" width="1000">
+<img src="sp1-media/Storyboard - NB.png" alt="Storyboard Three" width="1000">
 
 ### Name of persona in this storyboard
 Provide a description and explain how this storyboard relates to the persona and your user research.
