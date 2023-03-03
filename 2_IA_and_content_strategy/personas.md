@@ -8,7 +8,7 @@ Add your three personas.
 
 ## Persona One
 
-<img src="sp1-media/persona.png" alt="Persona One" width="1000">
+<img src="sp1-media/JuliePersona.png" alt="Persona One" width="1000">
 
 ### Name of persona
 Provide a description and explain how this persona was derived from your user research.
