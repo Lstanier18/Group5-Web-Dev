@@ -8,7 +8,7 @@
 
 Illustrated account of your process.
 
-_Insert images/illustrations using `<img>` including photographic evidence of the testing sessions_.
+<img src="sp2-media/CardSort.jpg" alt="Card Sort" width="600">
 
 ### List of the card elements
 
