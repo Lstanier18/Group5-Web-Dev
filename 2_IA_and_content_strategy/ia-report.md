@@ -12,9 +12,15 @@ Illustrated account of your process.
 
 ### List of the card elements
 
-- oranges
-- bananas
-- etc.
+- Gym workouts 
+- Recipes and meal plans
+- Home workouts 
+- What is mental health?
+- Importance of mental health
+- Healthy foods
+- Sporting activities
+- Professional support 
+- Calorie counting
 
 ### Cart sort results
 
