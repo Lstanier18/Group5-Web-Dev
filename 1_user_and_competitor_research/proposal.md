@@ -50,7 +50,7 @@ Mental Health
 
 ## Business objectives/goals
 
-User Questions
+Objectives
 
 •	What are the important areas to focus on to improve physical health and wellbeing?
 
@@ -62,7 +62,7 @@ User Questions
 
 •	How one can better manage their mental health?
 
-Objectives / Goals 
+Goals 
 
 •	Full functioning website
 
