@@ -36,7 +36,7 @@ Illustrated account of your process.
 
 ### Illustration of the architecture tested
 
-Show the architecture you are tree testing.
+<img src="sp2-media/TreeTesting.png" alt="Card Sort" width="600">
 
 ### Tree testing results
 
