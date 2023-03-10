@@ -8,7 +8,7 @@
 
 Illustrated account of your process.
 
-<img src="sp2-media/CardSort.jpg" alt="Card Sort" width="600">
+<img src="sp2-media/CardSort.png" alt="Card Sort" width="600">
 
 ### List of the card elements
 
