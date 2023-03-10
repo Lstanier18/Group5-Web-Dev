@@ -8,7 +8,6 @@
 
 Illustrated account of your process.
 
-<img src="sp2-media/CardSort.png" alt="Card Sort" width="600">
 
 ### List of the card elements
 
@@ -24,7 +23,7 @@ Illustrated account of your process.
 
 ### Cart sort results
 
-Illustrated summary of your findings.
+<img src="sp2-media/CardSort.png" alt="Card Sort" width="600">
 
 ---
 
