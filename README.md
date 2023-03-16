@@ -2,11 +2,11 @@
 
 <!-- Complete these first two sections. -->
 
-## Your Team number and name
+Group 5!
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
+- Imogen Calderbank, [email address](20103837@stu.mmu.ac.uk)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
