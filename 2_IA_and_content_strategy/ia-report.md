@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Illustrated account of your process.
+Card sorting is a method used to help design or evaluate the information architecture of a site. In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups
 
 
 ### List of the card elements
@@ -31,7 +31,7 @@ Illustrated account of your process.
 
 ### Introduction
 
-Illustrated account of your process.
+Once you have an architecture you like, test it out with a tree testing exercise, again on paper or using Optimal Workshop Treejack (online) on a number of people.
 
 ### Illustration of the architecture tested
 
