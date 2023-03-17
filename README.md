@@ -6,7 +6,7 @@ Group 5!
 
 ### Team members
 
-- Imogen Calderbank, [email address](mailto:20103837@stu.mmu.ac.uk)
+- Imogen Calderbank, (mailto:20103837@stu.mmu.ac.uk)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
