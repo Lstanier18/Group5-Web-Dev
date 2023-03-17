@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Card sorting is a method used to help design and analyse the information architecture of a site. In numerous card sorting sessions, we asked participants to orgsnise our topics into categories that make sense to them and they may also help you label these groups
+Card sorting is a method used to help design and analyse the information architecture of a site. In numerous card sorting sessions, we asked participants to orgsnise our topics into categories that make sense to them andhelp us to design the architecture for our site.
 
 
 ### List of the card elements
